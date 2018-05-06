@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 w3cshool.ccsdc
 cdscdcdcds
+=======
+ffffs
+asfffffxsdf
+>>>>>>> test3
